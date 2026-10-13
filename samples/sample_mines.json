@@ -1,0 +1,496 @@
+[
+ {
+  "id": "oyu-tolgoi",
+  "name": "Oyu Tolgoi",
+  "country": "Mongolia",
+  "region": "Umnugovi Province",
+  "lat": 43.0125,
+  "lng": 106.8542,
+  "commod": [
+   "Copper",
+   "Gold"
+  ],
+  "primary": "Copper\u2013Gold",
+  "byp": "Silver, molybdenum",
+  "deposit": "Copper-gold porphyry deposits (Oyut, Hugo North, Hugo South, Heruga)",
+  "mtype": "Open pit and underground block cave",
+  "method": "Oyut open pit (drill, blast, load, haul); Hugo North Lift 1 block cave",
+  "process": "Concentrator",
+  "stage": "Ramp-up",
+  "owners": [
+   [
+    "Rio Tinto",
+    66
+   ],
+   [
+    "Government of Mongolia (Erdenes Oyu Tolgoi)",
+    34
+   ]
+  ],
+  "operator": "Oyu Tolgoi LLC (Rio Tinto manages)",
+  "start": 2013,
+  "prod": "345.2 kt Cu \u00b7 300.9 koz Au",
+  "prodNote": "2025, Rio Tinto 66% share; copper up 61%",
+  "capacity": "~500 ktpa Cu avg, 2028\u201336",
+  "cost": "67\u00a2 / lb",
+  "costNote": "Rio copper C1 2025 (division)",
+  "rr": [
+   [
+    "Reserves (P&P)",
+    "1,136 Mt",
+    "0.84% Cu \u00b7 0.30 g/t Au \u00b7 1.90 g/t Ag",
+    ""
+   ],
+   [
+    "Reserves (P&P)",
+    "374 Mt (Hugo North UG)",
+    "1.56% Cu \u00b7 0.30 g/t Au",
+    ""
+   ],
+   [
+    "Reserves (P&P)",
+    "650 Mt (Oyut open pit)",
+    "0.44% Cu \u00b7 0.31 g/t Au",
+    ""
+   ]
+  ],
+  "rrNote": "31 Dec 2025 \u00b7 100% \u00b7 Rio Tinto 66% (Hugo North Extension 56%) \u00b7 total incl. 76 Mt stockpiles and 36 Mt Hugo North Extension",
+  "lomEnd": null,
+  "lomNote": "Guided ~500 ktpa Cu average through 2036",
+  "econ": {
+   "npv": null,
+   "irr": null,
+   "capex": "$7.06bn",
+   "capexNote": "underground Phase 2 total (June 2022 reforecast); LOM sustaining $5,004m"
+  },
+  "code": "JORC (Rio Tinto)",
+  "asOf": "31 Dec 2025",
+  "notes": [
+   "Ramp-up to ~500 kt Cu a year expected 2028\u20132036"
+  ],
+  "dev": [
+   [
+    "2011",
+    "First ore mined"
+   ],
+   [
+    "2013",
+    "First concentrate processed and sold"
+   ],
+   [
+    "Jan 2022",
+    "Undercut approved; underground blasting starts"
+   ],
+   [
+    "Jun 2022",
+    "First drawbell fired at Hugo North Lift 1 Panel 0"
+   ],
+   [
+    "16 Dec 2022",
+    "Rio Tinto completes Turquoise Hill acquisition (66%)"
+   ]
+  ],
+  "src": [
+   [
+    "Rio Tinto: Oyu Tolgoi Technical Report Summary, Exhibit 96.3 to Form 20-F 2022 (SEC) \u2014 data as of 31 Dec 2025",
+    "https://www.sec.gov/Archives/edgar/data/863064/000162828023004989/exhibits-963otsxk1300trs.htm",
+    "P"
+   ],
+   [
+    "Rio Tinto: Fourth quarter 2025 operations review, Exhibit 1 to Form 6-K (SEC)",
+    "https://www.sec.gov/Archives/edgar/data/863064/000086306426000006/ex1_2025-q4results.htm",
+    "P"
+   ],
+   [
+    "Rio Tinto: Mineral Resources and Ore Reserves updates (ASX/LSE, 19 Feb 2026)",
+    "https://www.investegate.co.uk/announcement/rns/rio-tinto--rio/mineral-resources-and-ore-reserves-updates/9437320",
+    "P"
+   ],
+   [
+    "Rio Tinto 2025 full-year results (SEC 6-K)",
+    "https://www.sec.gov/Archives/edgar/data/863064/000162828026009503/ye25-pressreleasex19feb.htm",
+    "P"
+   ],
+   [
+    "Rio Tinto: Oyu Tolgoi update, Jun 2025 (SEC 6-K)",
+    "https://www.sec.gov/Archives/edgar/data/863064/000162828025033686/ex4d06otupdate.htm",
+    "P"
+   ]
+  ],
+  "refs": {
+   "rr": [
+    3
+   ],
+   "prod": [
+    2
+   ],
+   "lom": [],
+   "econ": [
+    1
+   ],
+   "dev": [
+    2
+   ]
+  },
+  "verified": {
+   "checked": "10 Oct 2026",
+   "checks": [
+    [
+     "owners",
+     "Rio Tinto 66%, Erdenes 34%",
+     1,
+     "TRS Section 1"
+    ],
+    [
+     "rr",
+     "M&I 5.4 Mt Cu, 5.9 Moz Au (exclusive)",
+     1,
+     "TRS Section 1"
+    ],
+    [
+     "lat/lng",
+     "43\u00b000'45\"N, 106\u00b051'15\"E",
+     1,
+     "TRS Section 3"
+    ],
+    [
+     "capex",
+     "$7.06bn Phase 2",
+     1,
+     "TRS Section 18"
+    ],
+    [
+     "prod",
+     "345.2 kt Cu (66%)",
+     2,
+     "production tables"
+    ],
+    [
+     "rr",
+     "1,136 Mt @ 0.84% Cu",
+     3,
+     "Ore Reserves table"
+    ]
+   ],
+   "arith": []
+  },
+  "status": "verified"
+ },
+ {
+  "id": "boddington",
+  "name": "Boddington",
+  "country": "Australia",
+  "region": "Western Australia",
+  "lat": -32.75,
+  "lng": 116.37,
+  "commod": [
+   "Gold",
+   "Copper"
+  ],
+  "primary": "Gold\u2013Copper",
+  "byp": "Copper",
+  "deposit": "Gold\u2013copper in the Wells Formation, Saddleback Greenstone Belt",
+  "mtype": "Open pit",
+  "method": "Open pit (Wandoo North and South), owner-operated fleet",
+  "process": "Crushing, HPGR, ball milling, flotation to Cu\u2013Au concentrate; leach of cleaner-scavenger tails to dor\u00e9",
+  "stage": "Production",
+  "owners": [
+   [
+    "Newmont",
+    100
+   ]
+  ],
+  "operator": "Newmont",
+  "start": 1987,
+  "prod": "565 koz Au \u00b7 24 kt Cu",
+  "prodNote": "2025",
+  "capacity": "41 Mt/a mill",
+  "cost": "$1,321 / oz",
+  "costNote": "AISC 2025",
+  "rr": [
+   [
+    "Reserves (P&P)",
+    "545.1 Mt",
+    "0.58 g/t Au \u00b7 0.09% Cu",
+    "10.2 Moz Au \u00b7 0.5 Mt Cu"
+   ],
+   [
+    "Resources (M&I)",
+    "265.5 Mt",
+    "0.50 g/t Au \u00b7 0.11% Cu",
+    "4.3 Moz Au \u00b7 0.3 Mt Cu"
+   ],
+   [
+    "Resources (Inferred)",
+    "3.8 Mt",
+    "0.5 g/t Au \u00b7 0.1% Cu",
+    "0.1 Moz Au"
+   ]
+  ],
+  "rrNote": "31 Dec 2025 \u00b7 100% basis \u00b7 resources exclusive of reserves",
+  "lomEnd": 2040,
+  "lomNote": "Mining and milling end in 2040",
+  "econ": {
+   "npv": "$1.5bn",
+   "npvNote": "after tax, 5%, $2,000/oz Au, $3.75/lb Cu",
+   "irr": null,
+   "capex": "$3.3bn",
+   "capexNote": "LOM capital"
+  },
+  "code": "S-K 1300 (Newmont 10-K)",
+  "asOf": "31 Dec 2025",
+  "notes": [
+   "Average LOM recovery forecast at 85% gold and 81% copper",
+   "Closure cost estimated at about US$0.5bn (Dec 2025)",
+   "Tailings capacity limit projected mid-2032; F1/F3 expansion not yet permitted"
+  ],
+  "dev": [
+   [
+    "2009",
+    "Current open-pit operation began"
+   ],
+   [
+    "2021",
+    "South West Native Title Settlement resolved the Gnaala Karla Booja claim"
+   ]
+  ],
+  "src": [
+   [
+    "Newmont: Boddington Technical Report Summary, Exhibit 96.1 (SEC, Feb 2026) \u2014 data as of 31 Dec 2025",
+    "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000010/q425ex961bgm.htm",
+    "P"
+   ],
+   [
+    "Newmont Q4 and full-year 2025 results (SEC 8-K, 19 Feb 2026): site production and AISC",
+    "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000009/newmontq42025earningsand20.htm",
+    "P"
+   ]
+  ],
+  "refs": {
+   "rr": [
+    1
+   ],
+   "prod": [
+    2
+   ],
+   "lom": [
+    1
+   ],
+   "econ": [
+    1
+   ],
+   "dev": [
+    1
+   ]
+  },
+  "verified": {
+   "checked": "10 Oct 2026",
+   "checks": [
+    [
+     "rr",
+     "545.1 Mt @ 0.58 g/t, 0.09% Cu",
+     1,
+     "TRS Tables 1-5, 1-6"
+    ],
+    [
+     "econ",
+     "NPV $1.5bn at 5%",
+     1,
+     "TRS Section 19"
+    ],
+    [
+     "prod",
+     "565 koz Au, 24 kt Cu",
+     2,
+     "Q4 2025 release"
+    ]
+   ],
+   "arith": [
+    [
+     "Reserves (P&P)",
+     "Au",
+     10.165,
+     10.2,
+     "ok"
+    ],
+    [
+     "Reserves (P&P)",
+     "Cu",
+     0.491,
+     0.5,
+     "ok"
+    ],
+    [
+     "Resources (M&I)",
+     "Au",
+     4.268,
+     4.3,
+     "ok"
+    ],
+    [
+     "Resources (M&I)",
+     "Cu",
+     0.292,
+     0.3,
+     "ok"
+    ],
+    [
+     "Resources (Inferred)",
+     "Au",
+     0.061,
+     0.1,
+     "ok"
+    ]
+   ]
+  },
+  "status": "verified"
+ },
+ {
+  "id": "greenbushes",
+  "name": "Greenbushes",
+  "country": "Australia",
+  "region": "South West, Western Australia",
+  "lat": -33.8567,
+  "lng": 116.0622,
+  "commod": [
+   "Lithium"
+  ],
+  "primary": "Lithium (spodumene)",
+  "byp": "Tantalum",
+  "deposit": "Spodumene pegmatite",
+  "mtype": "Open pit",
+  "method": "Conventional truck and shovel",
+  "process": "CGP1 1.8, CGP2 2.4, TRP 2.0, TGP 0.35 Mtpa (6.55 Mtpa); CGP3 2.4 Mtpa under construction",
+  "stage": "Production",
+  "owners": [
+   [
+    "Tianqi/IGO JV (TLEA)",
+    51
+   ],
+   [
+    "Albemarle",
+    49
+   ]
+  ],
+  "operator": "Talison Lithium",
+  "start": 1983,
+  "prod": "~1.5 Mtpa SC",
+  "prodNote": "Nameplate capacity",
+  "capacity": "Up to 1.5 Mtpa lithium concentrate",
+  "cost": "A$753/t SC6.0-eq",
+  "rr": [
+   [
+    "Reserves (P&P)",
+    "164.5 Mt",
+    "1.9% Li2O",
+    ""
+   ],
+   [
+    "Resources (M&I)",
+    "128.8 Mt",
+    "1.2% Li2O",
+    ""
+   ],
+   [
+    "Resources (Inferred)",
+    "87.9 Mt",
+    "1.6% Li2O",
+    ""
+   ]
+  ],
+  "rrNote": "30 Jun 2025 \u00b7 100% \u00b7 probable only \u00b7 resources exclusive",
+  "lomEnd": 2048,
+  "lomNote": "Mining to 2048, stockpiles processed to 2049",
+  "econ": {
+   "npv": "A$10.2bn",
+   "npvNote": "post-tax, 10%, 100% basis (pre-tax A$15.3bn)",
+   "irr": null,
+   "capex": null
+  },
+  "code": "JORC (IGO / ASX)",
+  "asOf": "30 Jun 2025",
+  "notes": [
+   "Talison is owned 51% by TLEA (Tianqi 26.01%, IGO 24.99%) and 49% by Albemarle",
+   "Mining on site since 1888 (alluvial tin)"
+  ],
+  "dev": [
+   [
+    "Late 2025",
+    "CGP3 commissioning forecast"
+   ],
+   [
+    "Late 2026",
+    "CGP3 full production"
+   ],
+   [
+    "2026",
+    "Mining lease renewals pending"
+   ]
+  ],
+  "src": [
+   [
+    "Albemarle: Greenbushes Technical Report Summary, Exhibit 96.1 to Form 10-K 2025 (SEC) \u2014 data as of 30 Jun 2025",
+    "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/ex961greenbushes2025trs.htm",
+    "P"
+   ],
+   [
+    "IGO: Greenbushes CY24 Resources and Reserves",
+    "https://igo.com.au/site/PDF/871f9559-e640-4987-b9a0-b1740dafb6d9/GreenbushesCY24ResourcesandReserves",
+    "P"
+   ]
+  ],
+  "refs": {
+   "rr": [
+    1
+   ],
+   "prod": [],
+   "lom": [
+    1
+   ],
+   "econ": [
+    1
+   ],
+   "dev": [
+    1
+   ]
+  },
+  "costNote": "LOM AISC (US$497); FOB cost A$631/t",
+  "verified": {
+   "checked": "10 Oct 2026",
+   "checks": [
+    [
+     "rr",
+     "164.5 Mt @ 1.9% Li2O",
+     1,
+     "TRS Section 1"
+    ],
+    [
+     "lomEnd",
+     "2048",
+     1,
+     "TRS Section 13"
+    ],
+    [
+     "econ",
+     "Post-tax NPV A$10.2bn at 10%",
+     1,
+     "TRS Section 19"
+    ],
+    [
+     "lat/lng",
+     "33\u00b051'24\"S, 116\u00b003'44\"E",
+     1,
+     "TRS Section 3"
+    ],
+    [
+     "owners",
+     "Albemarle 49%, TLEA 51%",
+     1,
+     "TRS Section 1"
+    ]
+   ],
+   "arith": []
+  },
+  "status": "verified"
+ }
+]
